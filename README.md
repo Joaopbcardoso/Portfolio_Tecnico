@@ -1,1 +1,1 @@
-# Portfolio_Tecnico *computer*
+# Portfolio_Tecnico :Computer:
