@@ -5,7 +5,7 @@
 <p>Nessa autoral eu fiz uma página na web que faz a conversões entre reais dóleares e euros.
 </p>
 
-<h2>Benvenutti Music Design 🎼</h2>
-<p>Essa atividade fiz um protótipo de um app para aprender violão</p>
-<a href="https://www.figma.com/proto/Xh5Cra2u8psGNZtUp6JiUu/Benvenutti-Music?type=design&scaling=scale-down&page-id=0%3A1&node-id=7-58">Clique aqui para abrir o figma</a>
+<h2>Hopper's Place 🏀</h2>
+<p>Nessa atividade eu fiz um App para achar quadras de basquete em bom estado na região que o usuário estiver acessando.</p>
+<a href="https://www.figma.com/proto/XkcVZamuLEUBcS1ing4g8f/Hopper's-Place?type=design&node-id=2-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=313%3A145">Clique aqui para abrir o figma</a>
   
