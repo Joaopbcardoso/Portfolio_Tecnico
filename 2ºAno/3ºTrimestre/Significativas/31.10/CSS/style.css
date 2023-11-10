@@ -1,0 +1,49 @@
+body{
+    background-color: blue;
+}
+.alinhar{
+    text-align: center;
+
+}
+
+#titulo{
+    background-color: goldenrod;
+    color: black;
+}
+
+#imagemporshe{ 
+    width: 700px;
+    margin: 10px;
+  
+}
+
+#mudarcor{
+    transition: 1s;
+    position: absolute;
+    left: 46%;
+    top:74%;
+    display: inline-block;
+    margin: 10px;
+    padding: 15px;
+    background-color: goldenrod;
+    color: red;
+    border-radius: 10px;
+    border: 2px, black;
+    cursor: pointer;
+}
+
+#mudarcor:hover{
+    transition: 1s;
+    background-color: red;
+    color:black;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.informacoes{
+    background-color: goldenrod;
+    font-weight: bold;
+    padding: 5px;
+}
+
+
